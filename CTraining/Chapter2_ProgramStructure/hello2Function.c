@@ -10,7 +10,6 @@
 void printComma()
 {
     printf(", ");
-    return;
 }
 
 int main()
@@ -18,7 +17,6 @@ int main()
     printf( "Hello" );
     printComma();
     printf( "world!\n" );
-    return 0;
 }
 
 /* EOF */
