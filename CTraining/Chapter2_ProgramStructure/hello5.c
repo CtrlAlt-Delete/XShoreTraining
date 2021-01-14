@@ -1,5 +1,5 @@
 /* 
- * hello4.c
+ * hello5.c
  * General greeting functions.
  * by Jonathan Pernow
  * created 2021-01-12
